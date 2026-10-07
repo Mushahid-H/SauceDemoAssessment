@@ -40,7 +40,7 @@ SauceDemo/
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/Mushahid-H/SauceDemoAssessment>
 cd SauceDemo
 npm install
 npx playwright install
